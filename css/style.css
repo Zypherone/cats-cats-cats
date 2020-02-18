@@ -17,6 +17,7 @@ header {
 }
 
 h1 {
+    background: url("../images/meow.jpg");
     color: #eee;
     font-size: 28px;
     text-align:  center;
